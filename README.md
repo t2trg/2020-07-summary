@@ -51,4 +51,4 @@ Please contact the [chairs][] for any changes required.
 [chairs]: mailto:t2trg-chairs@irtf.org
 
 [edge]: https://tools.ietf.org/html/draft-hong-t2trg-iot-edge-computing
-[WISHI-hackathon]: https://github.com/t2trg/wishi/wiki/Preparation:-Hackathon-Planning
+[WISHI-hackathon]: https://github.com/t2trg/2020-04-wishi-onedm-hack
