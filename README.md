@@ -30,17 +30,17 @@ Please contact the [chairs][] for any changes required.
 | Time (UTC) | Who                 | Subject                                            | Docs                                        |
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
 |      14:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]        |
-|      14:10 | Chairs              | Reports from [WISHI][], [WISHI-hackathon][]        |                                             |
+|      14:10 | Chairs              | Reports from [WISHI][], [WoT Helsinki][Helsinki]   |                                             |
 |      14:20 | Matthias Kovatsch   | OPC/UA NETCONF binding experiment notes            |                                             |
 |      14:35 | Carsten Bormann     | Intro: Industry Updates (focus for this meeting)   |                                             |
-|      14:40 | Wouter van der Beek | OCF update                                         |                                             |
-|      14:45 | Michael Koster      | ZigBee/CHIP update                                 |                                             |
-|      14:50 | Michael Koster      | OneDM update                                       |                                             |
-|      14:55 | (TBC)               | (TBC)                                              |                                             |
-|      15:10 | Michael Richardson  | IoTSF update                                       |                                             |
+|      14:40 | Michael Richardson  | IoTSF update                                       |                                             |
+|      14:50 | Michael Koster      | ZigBee/CHIP update                                 |                                             |
+|      14:55 | Michael Koster      | OneDM update                                       |                                             |
+|      15:05 | (TBC)               | OMA DMSE/IPSO update                               |                                             |
+|      15:15 | Wouter van der Beek | OCF update                                         |                                             |
 |      15:20 | Michael McCool      | W3C update for new charter period                  |                                             |
 |      15:35 | Carsten Bormann     | ASDF BOF                                           |                                             |
-|      15:45 | TBD                 | IoT Edge Challenges and Functions                  | [draft-hong-t2trg-iot-edge-computing][edge] |
+|      15:45 | Xavier Foy          | IoT Edge Challenges and Functions                  | [draft-hong-t2trg-iot-edge-computing][edge] |
 |      15:55 | Chairs              | Wrap-up                                            |                                             |
 |      16:00 | Chairs              | end of meeting                                     |                                             |
 
@@ -52,3 +52,4 @@ Please contact the [chairs][] for any changes required.
 
 [edge]: https://tools.ietf.org/html/draft-hong-t2trg-iot-edge-computing
 [WISHI-hackathon]: https://github.com/t2trg/2020-04-wishi-onedm-hack
+[Helsinki]: https://github.com/t2trg/2020-06-helsinki
