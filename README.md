@@ -36,7 +36,7 @@ Please contact the [chairs][] for any changes required.
 |      14:40 | Michael Richardson  | IoTSF update                                       |                                             |
 |      14:50 | Michael Koster      | ZigBee/CHIP update                                 |                                             |
 |      14:55 | Michael Koster      | OneDM update                                       |                                             |
-|      15:05 | (TBC)               | OMA DMSE/IPSO update                               |                                             |
+|      15:05 | Travis Shanahan     | OMA DMSE/IPSO update                               |                                             |
 |      15:15 | Wouter van der Beek | OCF update                                         |                                             |
 |      15:20 | Michael McCool      | W3C update for new charter period                  |                                             |
 |      15:35 | Carsten Bormann     | ASDF BOF                                           |                                             |
