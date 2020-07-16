@@ -31,7 +31,7 @@ Please contact the [chairs][] for any changes required.
 |------------|---------------------|----------------------------------------------------|---------------------------------------------|
 |      14:00 | Chairs              | Intro, RG status, upcoming meetings and activities | [draft-irtf-t2trg-rest-iot][restiot]        |
 |      14:10 | Chairs              | Reports from [WISHI][], [WoT Helsinki][Helsinki]   |                                             |
-|      14:20 | Matthias Kovatsch   | OPC/UA NETCONF binding experiment notes            |                                             |
+|      14:20 | Matthias Kovatsch   | OPC UA NETCONF binding experiment notes            |                                             |
 |      14:35 | Carsten Bormann     | Intro: Industry Updates (focus for this meeting)   |                                             |
 |      14:40 | Michael Richardson  | IoTSF update                                       |                                             |
 |      14:50 | Michael Koster      | ZigBee/CHIP update                                 |                                             |
